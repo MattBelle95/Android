@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SocketApp</string>
+    <string name="TextBoxHint">message</string>
+    <string name="ButtonText">Send</string>
+    <string name="ButtonConnect">Connect</string>
+    <string name="StatusBox">Status</string>
+</resources>
